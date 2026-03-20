@@ -45,3 +45,8 @@ Este proyecto analiza una base de datos de un servicio de libros para identifica
 - **publishers:** Identificación y nombre de editoriales (`publisher_id`, `publisher`).
 - **ratings:** Calificaciones de usuarios (`rating_id`, `book_id`, `username`, `rating`).
 - **reviews:** Reseñas de texto de usuarios (`review_id`, `book_id`, `username`, `text`).
+
+## Visualización interactiva
+Puedes explorar los resultados de este análisis en el siguiente dashboard de Tableau Public:
+
+[**Ver Dashboard: Top 10 Books**](https://public.tableau.com/app/profile/ari.de.le.n/viz/Top10Books_17737109047610/Dashboard1?publish=yes)
