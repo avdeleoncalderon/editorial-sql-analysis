@@ -8,6 +8,7 @@ Este proyecto analiza una base de datos de un servicio de libros para identifica
 ![SQL](https://img.shields.io/badge/SQL-357ebd?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-357ebd?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-357ebd?style=for-the-badge&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-357ebd?style=for-the-badge&logo=tableau&logoColor=white)
 ![Análisis de datos](https://img.shields.io/badge/Análisis_de_datos-295F98?style=for-the-badge)
 ![Visualización de datos](https://img.shields.io/badge/Visualización_de_datos-295F98?style=for-the-badge)
 ![Base de datos relacional](https://img.shields.io/badge/Base_de_datos_relacional-295F98?style=for-the-badge)
